@@ -1,0 +1,12 @@
+{
+  "title": "My Scratchpad",
+  "name": "gebrascratchpad",
+  "version": "1.0.0",
+  "description": "Paste code selected on a page to Scratchpad.",
+  "main": "lib/main.js",
+  "author": "GeBra",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL 2.0"
+}
